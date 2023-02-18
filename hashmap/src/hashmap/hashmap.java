@@ -39,7 +39,7 @@ public class hashmap {
 				System.out.println(me.getKey());
 			if(me.getValue().equals(101))
 					
-me.setValue("Girish");
+me.setValue("kathir");
 			if(me.getKey().equals("girish"))
 				me.setValue(101); 
 			if(me.getValue().equals(101))
